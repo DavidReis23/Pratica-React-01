@@ -4,7 +4,7 @@
 David da Silva dos Reis
 
 ## Disciplina e Curso
-Programação Web II
+Programação Web II — Análise e Desenvolvimento de Sistemas
 
 ## Descrição do Projeto
-Projeto desenvolvido em React com Vite, com o objetivo de praticar a criação de componentes, organização de arquivos e conceitos básicos do React.
+Projeto desenvolvido em React utilizando Vite, com o objetivo de praticar a criação de componentes, uso de props, estados (useState) e filtragem de dados em uma aplicação front-end.
