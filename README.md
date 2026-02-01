@@ -1,1 +1,10 @@
-# Pratica-React-01
+# Prática React 01
+
+## Aluno
+David da Silva dos Reis
+
+## Disciplina e Curso
+Programação Web II — Curso de Sistemas de Informação
+
+## Descrição do Projeto
+Projeto desenvolvido em React com Vite, com o objetivo de praticar a criação de componentes, organização de arquivos e conceitos básicos do React.
