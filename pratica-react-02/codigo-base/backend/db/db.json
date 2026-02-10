@@ -1,0 +1,52 @@
+{
+  "anuncios": [
+    {
+      "id": "1",
+      "brand": "Hyundai",
+      "model": "HB20",
+      "km": 65000,
+      "category": "Hatch",
+      "year": 2018,
+      "price": 55000,
+      "description": "Carro muito bem conservado, único dono, revisões na concessionária.",
+      "contact": "(88) 99999-1111",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRsJS0P6AkWWM-9qYazlGhe4SSStCeDj_lo-KTI06cW_CuzC_JbGwY-ZgWH3VxK8udM_1JHWvzFS3cwtXmwqlAGjRRnoJqwknpLv98UR0vuLog_KvEfNiOfxEUIJewP3lRT4p4am9udZ8l/s1600/Hyundai-HB20-2018-Copa+%25283%2529.jpg"
+    },
+    {
+      "id": "2",
+      "brand": "Toyota",
+      "model": "Hilux",
+      "km": 100000,
+      "category": "Picape",
+      "year": 2019,
+      "price": 155000,
+      "description": "Picape robusta, ideal para o trabalho no campo e viagens.",
+      "contact": "(88) 99999-2222",
+      "imageUrl": "https://uploads.automaistv.com.br/2018/08/Toyota-Hilux-2019-2.jpg"
+    },
+    {
+      "id": "3",
+      "brand": "Volkswagen",
+      "model": "T-Cross",
+      "km": 20000,
+      "category": "SUV",
+      "year": 2021,
+      "price": 135000,
+      "description": "SUV compacto, excelente espaço interno e muita tecnologia embarcada.",
+      "contact": "(88) 99999-3333",
+      "imageUrl": "https://www.autoo.com.br/fotos/2020/8/1280_960/volkswagen_t-cross_2021_1_06082020_32607_1280_960.jpg"
+    },
+    {
+      "id": "4",
+      "brand": "Chevrolet",
+      "model": "Onix",
+      "km": 80000,
+      "category": "Hatch",
+      "year": 2017,
+      "price": 50000,
+      "description": "Carro super econômico, ótimo para o dia a dia na cidade.",
+      "contact": "(88) 99999-4444",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqiIVoUyGmtdtZD979zUgGUuos8-icHbAUzw4XTyWW1Ez7zJWCyluckF97sq3boCYp2H2mQwfDwilfPHsv7tYCiiYgSz_EG5SwdgxZ-iVFLzZiZ71HNfFZFWXB6HxOorHiu219tWDpRCA/s1600/Novo-Chevrolet-Onix-2017+%252810%2529.jpg"
+    }
+  ]
+}
