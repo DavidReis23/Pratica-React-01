@@ -56,11 +56,25 @@ const Cadastro = () => {
           display: "flex",
           justifyContent: "space-between",
           alignItems: "center",
-          marginBottom: "20px",
+          width: "100%",
+          maxWidth: "500px",
+          margin: "0 auto 20px auto",
         }}
       >
-        <h1>Cadastrar Novo Anúncio</h1>
-        <Link to="/">Voltar para Home</Link>
+        <h1 style={{ margin: 0 }}>Cadastrar Novo Anúncio</h1>
+        <Link
+          to="/"
+          style={{
+            textDecoration: "none",
+            color: "#007bff",
+            fontWeight: "bold",
+            border: "1px solid #007bff",
+            padding: "5px 10px",
+            borderRadius: "5px",
+          }}
+        >
+          Voltar para Home
+        </Link>
       </header>
 
       <form

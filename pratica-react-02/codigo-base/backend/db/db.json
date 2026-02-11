@@ -47,6 +47,18 @@
       "description": "Carro super econômico, ótimo para o dia a dia na cidade.",
       "contact": "(88) 99999-4444",
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqiIVoUyGmtdtZD979zUgGUuos8-icHbAUzw4XTyWW1Ez7zJWCyluckF97sq3boCYp2H2mQwfDwilfPHsv7tYCiiYgSz_EG5SwdgxZ-iVFLzZiZ71HNfFZFWXB6HxOorHiu219tWDpRCA/s1600/Novo-Chevrolet-Onix-2017+%252810%2529.jpg"
+    },
+    {
+      "model": "Toyota",
+      "brand": "Toyota Corolla",
+      "category": "Sedans",
+      "description": "Carro super econômico, ótimo para o dia a dia na cidade e muito confortável",
+      "price": 175000,
+      "year": 2026,
+      "km": 0,
+      "contact": "(88) 99999-5555",
+      "imageUrl": "https://image1.mobiauto.com.br/images/api/images/v1.0/450192365/transform/fl_progressive,f_webp,q_auto",
+      "id": "e-v1r3S"
     }
   ]
 }
